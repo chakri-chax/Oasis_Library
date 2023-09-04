@@ -63,7 +63,7 @@ const [hash,setHash] = useState('0x7cd23........c43f')
         console.log("Details", exportPerson.studentId);
 
         
-        const contractAddress = "0x636001d0e70aec80444D5f69A10e55613D9d3340";
+        const contractAddress = "0x7DbEEBDE6bE26E36fC9b1484d5902849F5e6d1c2";
         const contractABI = abi;
         const provider = new ethers.providers.Web3Provider(window.ethereum);
         const signer = provider.getSigner();
