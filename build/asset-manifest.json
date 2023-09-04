@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d368d434.css",
+    "main.js": "/static/js/main.abe4ad3c.js",
+    "static/js/787.bc54a9e5.chunk.js": "/static/js/787.bc54a9e5.chunk.js",
+    "static/media/bookss.png": "/static/media/bookss.140c98dbbfcaff960ca1.png",
+    "static/media/bookTree.png": "/static/media/bookTree.6e94a831d020f35fb936.png",
+    "static/media/girl.png": "/static/media/girl.42fceb664a121e2beb50.png",
+    "static/media/tickFinal.gif": "/static/media/tickFinal.aee692f19958c9789621.gif",
+    "static/media/transacVid.mp4": "/static/media/transacVid.646669db30e80f435da4.mp4",
+    "static/media/QrHand.png": "/static/media/QrHand.7a15cd3556a643b0abe7.png",
+    "static/media/load1.gif": "/static/media/load1.30c0aa7c3e2579d868a6.gif",
+    "static/media/bookDetail.png": "/static/media/bookDetail.3f28fd966d316c45d24a.png",
+    "static/media/physics.jpg": "/static/media/physics.c415e2cf0c0bad985b67.jpg",
+    "static/media/pngwing.png": "/static/media/pngwing.70aa6ff7b525bf008368.png",
+    "static/media/booklogo.png": "/static/media/booklogo.b27a36a48a88412e51ef.png",
+    "static/media/book3.jpg": "/static/media/book3.4052ab1938f5ed8945e0.jpg",
+    "index.html": "/index.html",
+    "main.d368d434.css.map": "/static/css/main.d368d434.css.map",
+    "main.abe4ad3c.js.map": "/static/js/main.abe4ad3c.js.map",
+    "787.bc54a9e5.chunk.js.map": "/static/js/787.bc54a9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d368d434.css",
+    "static/js/main.abe4ad3c.js"
+  ]
+}
