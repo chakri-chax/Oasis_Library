@@ -41,6 +41,25 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
+#Wallet connection
+
+###Mainnet
+
+RPC HTTP endpoint: https://sapphire.oasis.io
+RPC WebSockets endpoint: wss://sapphire.oasis.io/ws
+Chain ID:
+Hex: 0x5afe
+Decimal: 23294
+Block explorer: https://explorer.sapphire.oasis.io
+
+###Testnet
+RPC HTTP endpoint: https://testnet.sapphire.oasis.dev
+RPC WebSockets endpoint: wss://testnet.sapphire.oasis.dev/ws
+Chain ID:
+Hex: 0x5aff
+Decimal: 23295
+Block explorer: https://testnet.explorer.sapphire.oasis.dev
+
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
